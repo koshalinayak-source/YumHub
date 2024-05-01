@@ -242,7 +242,13 @@ section#contact-us a:hover {
 }
 
 
+@media only screen and (max-width: 800px) {
+  .testimonial-carousel {
+    display: flex;
+    flex-direction: column;
+  }
 
+}
 
 
 
